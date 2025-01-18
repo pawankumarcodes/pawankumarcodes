@@ -81,13 +81,3 @@ I am specialized in building web apps using Php(Laravel, Php), Javascript (React
 <!-- OTHER-PROJECTS-LIST:END -->
 
 ---
-
-### Connect with me:
-
-[<img align="left" alt="Pawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-
-[linkedin]: https://www.linkedin.com/in/thepkpawankumar
